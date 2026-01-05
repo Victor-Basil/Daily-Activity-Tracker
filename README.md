@@ -1,4 +1,5 @@
-Daily Activity Tracker app
+**Daily Activity Tracker app**:
+
 This is a simple web based applicationto log and track daily activities.
 
 How the Application Works

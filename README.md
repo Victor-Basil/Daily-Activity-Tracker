@@ -1,1 +1,2 @@
-# Daily-Activity-Tracker
+Daily Activity Tracker app
+
